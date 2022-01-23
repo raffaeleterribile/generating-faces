@@ -139,5 +139,6 @@ cython_debug/
 
 # Project specific settings
 workspace.tar.gz
+processed-celeba-small.zip
 processed_celeba_small.zip
 processed_celeba_small/
